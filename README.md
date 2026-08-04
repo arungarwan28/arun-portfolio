@@ -8,9 +8,7 @@ This portfolio is designed to make a strong first impression with an animated ty
 
 ## Live Portfolio
 
-Portfolio Link: `https://your-github-username.github.io/your-repository-name/`
-
-Replace the link above after GitHub Pages is published.
+Portfolio Link: [https://arungarwan28.github.io/arun-portfolio/](https://arungarwan28.github.io/arun-portfolio/)
 
 ---
 
